@@ -1,0 +1,7 @@
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\bin\Debug\ExcelClassLibrary.dll
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\bin\Debug\ExcelClassLibrary.pdb
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\bin\Debug\WindowsBase.dll
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\obj\Debug\ExcelClassLibrary.dll
+C:\Anubhav\projects\OpenXMLExcelConsole\ExcelClassLibrary\obj\Debug\ExcelClassLibrary.pdb
